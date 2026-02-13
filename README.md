@@ -20,6 +20,8 @@ Furthermore, the analysis will focus on understanding and calculating:
 
   1. Sales by Region - Is to determine the Total sales generated in each region
   2. Total Sales by Products - To analyze the unit price of all products sold to identify the most patronized one
-  3. Monthly Sales Trend - To discover the total amount of sales made monthly for the year analyzed.
+  3. 
+  4. Monthly Sales Trend - To discover the total amount of sales made monthly for the year analyzed.
 We can further review and compare monthly sales trend by categories, products sold, customers patronage at the regional level to reveal customers sales character and articulate profits making products for management decisions.
- 4. Top 
+
+
